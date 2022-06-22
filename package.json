@@ -1,0 +1,23 @@
+{
+  "name": "sthembiso-radebe-269-password-checker-javascript",
+  "version": "1.0.0",
+  "description": "password-checker (269)\r For raw project instructions see: http://syllabus.africacode.net/projects/tdd/password-checker/part1/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Sthembiso-Radebe-269-password-checker-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Sthembiso-Radebe-269-password-checker-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Sthembiso-Radebe-269-password-checker-javascript#readme",
+  "dependencies": {
+    "jasmine": "^4.0.2",
+    "winston": "^3.6.0"
+  }
+}
